@@ -1,32 +1,30 @@
-# Hi, I'm Esther 👋
+# Hi, I'm Esther Obasi
 
-## About Me
+Data Analyst | Automation Engineer | Agentic Chatbot Specialist
 
-I am a Data Analyst passionate about transforming raw data into meaningful insights that drives massive numbers.
+I transform raw data into insights that drive results. I also build AI-powered automations and agentic chatbots.
 
-Currently Upgrading In:
+## Currently Upgrading In;
+Excel, SQL, Power BI, Python, GitHub, AI for Analysis, n8n
 
-* Microsoft Excel
-* SQL
-* Power BI
-* Python for Data Analysis
-* GitHub
-* AI for Analysis
+## AI Automation Projects
+Lead Responder Automation: Webhook -> Airtable -> IF (email validation) -> Gmail & Telegram
+
+Coming Soon: AI Customer Support Bot, Data Analysis Bot
 
 ## Skills
+Data Analysis: Cleaning, Visualization, Dashboards, Business Analysis
 
-* Data Cleaning
-* Pivot Tables
-* Data Visualization
-* Dashboard Creation
-* Business Analysis
+Automation: n8n, APIs, Webhooks
 
-## Current Goal
+AI: Prompt Engineering, LLMs, Agentic Workflows
 
-To become a job-ready Data Analyst and build a strong portfolio of real-world projects.
+Tools: Excel, SQL, Power BI, Python, GitHub, Postman
 
-## Contact
+## Goal
+To become a job-ready Data Analyst and Automation Engineer.
 
+## Connect
 LinkedIn: https://www.linkedin.com/in/esther-obasi-931a8722a
 
 Email: okwuchukwuesther17@gmail.com
